@@ -1,4 +1,4 @@
-## Hi there 👋😺​
+## Hi 👋😺​
 Actualmente soy una administrativa con gusto por la automatización y la programación, que decidio comenzar a estudiar DAM.
 Me divierte tanto presentar impuestos como automatizar procesos, así que decidí aprender a programar.
 
