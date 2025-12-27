@@ -2,24 +2,40 @@
 Estudiante de DAM centrada en desarrollo de software, automatización y APIs.
 Trabajo con frontend y backend, y disfruto aprendiendo nuevas tecnologías a través de proyectos prácticos.
 
-### 🎨​ Frontend
+## 🎨​ Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
-### ⚙️ Backend
+## ⚙️ Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
-
-### 🗄️ Bases de Datos
+## 🗄️ Bases de Datos
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
-### ☁️ DevOps & Cloud
+## ☁️ DevOps & Cloud
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-### 🧩 Varios
+## 🧩 Varios
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=white)
+
+## 📌 Proyectos destacados
+
+### [Web Bar – Dados y Tragos](https://github.com/NereaTM/Web-Bar-DadosYTragos) 🃏
+Aplicación web desarrollada en Java con JSP y Servlets para la gestión de un bar temático de juegos de mesa.  
+Arquitectura Java web clásica con Maven, Tomcat y base de datos relacional.
+
+
+### [Organización de Empresa](https://github.com/NereaTM/Org-Empresa) 🏢
+Aplicación web para la gestión de empleados y departamentos.  
+Backend con Node.js y Express, frontend desacoplado y entorno Dockerizado con CI.
+
+
+### [PixelPanda – Anime Database](https://github.com/NereaTM/PixelPanda-dbAnime) 🐼
+Aplicación frontend desarrollada con HTML, CSS y JavaScript que consume la API de Jikan para la exploración de anime.  
+Proyecto centrado en interfaz, consumo de APIs y experiencia de usuario.
+
 
 ---
 <picture>
