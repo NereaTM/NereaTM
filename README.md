@@ -1,10 +1,6 @@
-## Hi 👋😺​
-Actualmente soy una administrativa con gusto por la automatización y la programación, que decidio comenzar a estudiar DAM.
-Me divierte tanto presentar impuestos como automatizar procesos, así que decidí aprender a programar.
 
-Me encanta investigar y probar cosas nuevas, y mi gusto por la programación nació porque Excel es mi mayor aliado (aunque a veces discutamos 😅).
-
-Lo que no sabía que podía ser un mundo tan extenso y divertido, así que toca seguir inmersa en esto 💪​.
+Estudiante de DAM centrada en desarrollo de software, automatización y APIs.
+Trabajo con frontend y backend, y disfruto aprendiendo nuevas tecnologías a través de proyectos prácticos.
 
 ### 🎨​ Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
