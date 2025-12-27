@@ -21,20 +21,14 @@ Trabajo con frontend y backend, y disfruto aprendiendo nuevas tecnologías a tra
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=white)
 
-
-# 📊 GitHub:
-![](https://github-readme-stats.vercel.app/api?username=NereaTM&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NereaTM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=NereaTM&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NereaTM/NereaTM/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NereaTM/NereaTM/output/pacman-contribution-graph.svg">
+
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NereaTM/NereaTM/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
+[![](https://visitcount.itsvg.in/api?id=NereaTM&icon=0&color=0)](https://visitcount.itsvg.in)
 
